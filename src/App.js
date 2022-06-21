@@ -16,6 +16,7 @@ function App() {
           <thead className='table-dark'>
             <tr>
               <th>Personaggio</th>
+              <th>Spesa</th>
               <th>Rimanenza</th>
             </tr>
           </thead>
@@ -23,27 +24,28 @@ function App() {
             <tr>
               <td>ALESSANDRO PERUZZO</td>
               <td>€ 1,30</td>
+              <td>€ 53,70</td>
             </tr>
             <tr>
               <td>LEONARDO COSARO</td>
               <td>€ 1,30</td>
+              <td>€ 53,70</td>
             </tr>
             <tr>
               <td>CLAUDIO DI PALMA</td>
               <td>€ 1,30</td>
+              <td>€ 53,70</td>
             </tr>
             <tr>
               <td>JACOPO CAPARONE</td>
               <td>€ 1,40</td>
+              <td>€ 53,60</td>
             </tr>
           </tbody>
           <tfoot>
             <tr className='table-dark'>
               <td>TOTALE SPESA</td>
               <td>€ 5,30</td>
-            </tr>
-            <tr className='table-dark'>
-              <td>TOTALE RIMANENZA</td>
               <td>€ 214,70</td>
             </tr>
           </tfoot>
