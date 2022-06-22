@@ -35,36 +35,36 @@ function App() {
               <td>
                 <img src={ale} className="people-image" alt="ale" />
               </td>
-              <td>€ 3,70</td>
-              <td>€ 51,30</td>
+              <td>€ 4,80</td>
+              <td>€ 50,20</td>
             </tr>
             <tr>
               <td>
                 <img src={leo} className="people-image" alt="leo" />
               </td>
-              <td>€ 3,50</td>
-              <td>€ 51,50</td>
+              <td>€ 4,60</td>
+              <td>€ 50,40</td>
             </tr>
             <tr>
               <td>
                 <img src={claudio} className="people-image" alt="claudio" />
               </td>
-              <td>€ 2,50</td>
-              <td>€ 52,50</td>
+              <td>€ 3,70</td>
+              <td>€ 51,30</td>
             </tr>
             <tr>
               <td>
                 <img src={jacopo} className="people-image" alt="jacopo" />
               </td>
-              <td>€ 4,20</td>
-              <td>€ 50,80</td>
+              <td>€ 5,30</td>
+              <td>€ 49,70</td>
             </tr>
           </tbody>
           <tfoot>
             <tr className='table-dark'>
               <td>TOTALE</td>
-              <td>€ 13,90  </td>
-              <td>€ 206,10</td>
+              <td>€ 19,40 </td>
+              <td>€ 201,60</td>
             </tr>
           </tfoot>
         </table>
