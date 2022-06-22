@@ -23,30 +23,30 @@ function App() {
           <tbody>
             <tr>
               <td>ALESSANDRO PERUZZO</td>
-              <td>€ 1,30</td>
-              <td>€ 53,70</td>
+              <td>€ 3,70</td>
+              <td>€ 51,30</td>
             </tr>
             <tr>
               <td>LEONARDO COSARO</td>
-              <td>€ 1,30</td>
-              <td>€ 53,70</td>
+              <td>€ 3,50</td>
+              <td>€ 51,50</td>
             </tr>
             <tr>
               <td>CLAUDIO DI PALMA</td>
-              <td>€ 1,30</td>
-              <td>€ 53,70</td>
+              <td>€ 2,50</td>
+              <td>€ 52,50</td>
             </tr>
             <tr>
               <td>JACOPO CAPARONE</td>
-              <td>€ 1,40</td>
-              <td>€ 53,60</td>
+              <td>€ 4,20</td>
+              <td>€ 50,80</td>
             </tr>
           </tbody>
           <tfoot>
             <tr className='table-dark'>
               <td>TOTALE SPESA</td>
-              <td>€ 5,30</td>
-              <td>€ 214,70</td>
+              <td>€ 13,90  </td>
+              <td>€ 206,10</td>
             </tr>
           </tfoot>
         </table>
