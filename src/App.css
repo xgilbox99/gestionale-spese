@@ -3,12 +3,12 @@
 }
 
 .App-logo {
-  height: 20vmin;
+  height: 250px;
   pointer-events: none;
 }
 
 .people-image{
-  height: 10vmin;
+  height: 125px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
