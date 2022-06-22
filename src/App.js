@@ -62,7 +62,7 @@ function App() {
           </tbody>
           <tfoot>
             <tr className='table-dark'>
-              <td>TOTALE SPESA</td>
+              <td>TOTALE</td>
               <td>€ 13,90  </td>
               <td>€ 206,10</td>
             </tr>
