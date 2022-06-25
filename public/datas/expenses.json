@@ -1,0 +1,26 @@
+[
+    {
+        "name": "jacopo",
+        "total": 50,
+        "expense": 0,
+        "last_expense": 0
+    },
+    {
+        "name": "leo",
+        "total": 50,
+        "expense": 0,
+        "last_expense": 0
+    },
+    {
+        "name": "claudio",
+        "total": 50,
+        "expense": 0,
+        "last_expense": 0
+    },
+    {
+        "name": "ale",
+        "total": 50,
+        "expense": 0,
+        "last_expense": 0
+    }
+]

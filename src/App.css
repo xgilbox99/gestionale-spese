@@ -3,17 +3,17 @@
 }
 
 .App-logo {
-  height: 250px;
+  height: 30vmin;
   pointer-events: none;
 }
 
 .people-image{
-  height: 125px;
+  height: 15vmin;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo{
-    animation: App-logo-spin infinite 3s linear alternate;
+    animation: App-logo-spin infinite 1.5s linear alternate;
   }
   
   .people-image {
@@ -47,9 +47,9 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: translate(-35vw);
+    transform: translate(-20vmin);
   }
   to {
-    transform: translate(35vw);
+    transform: translate(20vmin);
   }
 }
